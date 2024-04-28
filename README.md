@@ -1,5 +1,3 @@
-# how_to_open_a_javafx_project
-
-
-https://github.com/iandkim229-tamu/how_to_open_a_javafx_project/assets/156872247/d45041aa-9752-404d-abdc-d0182c250391
-
+# How to open a JavaFX project
+## Opening a JavaFX project in Eclipse
+![Eclipse Step 1](https://github.com/iandkim229-tamu/how_to_open_a_javafx_project/blob/main/Resources/eclipse_step1.gif)
