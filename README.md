@@ -7,6 +7,7 @@
 
 
 
+
 2. Click on `Window` -> `Preferences`.
 
    `Java` -> `Build Path` -> `User Libraries` on the left tab of the Preferences window
